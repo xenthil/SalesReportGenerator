@@ -43,6 +43,8 @@ Allow users to generate sales reports based on:
 
 ### Flowchart
 
+To be added
+
 ### Disadvantages
 
 - Client/user to reissue the request in case of timeout issues or any failures
@@ -65,12 +67,14 @@ Allow users to generate sales reports based on:
 
 ### Flowchart
 
+To be added
+
 ### Logging
 
 - Use Serilog
 - Track job status, errors, etc.,
 
-### Pros
+### Advantages
 
 - Scalable
 - No HTTP timeout issues
