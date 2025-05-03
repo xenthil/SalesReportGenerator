@@ -24,7 +24,7 @@ Allow users to generate sales reports based on:
 **Backend:** .NET Core Web API  
 **Database:** SQL Server  
 **Queue:** RabbitMQ  
-**File Storage:** Azure Blob storage
+**File Storage:** Azure Blob storage  
 **Report Generator:** OpenXML SDK (for PPTX)  
 
 ## Approach A: A simple synchronous API-based design
